@@ -6,3 +6,4 @@ backend www.sina.com
         server 119.114.114.112 119.114.114.112 weight 20 maxconn 30
 backend www.oldboy.org
         server 100.1.1.9 100.1.1.9 weight 20 maxconn 30
+        server 100.1.1.11 100.1.1.11 weight 30 maxconn 30
